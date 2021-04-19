@@ -5,6 +5,16 @@
 A Software Engineer specializing in Java technologies and Amazon Web Services. Professional experience with the techonologies listed in the **toolbox** below.
 
 ---
+
+🧰 Toolbox
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java logo" width="75" height="75"> <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="Spring logo" width="75" height="75"> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL logo" width="75" height="75"> <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB logo" width="75" height="75"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" alt="Html5 logo" width="75" height="75"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="CSS logo" width="75" height="75"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript logo" width="75" height="75"> <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="Vue logo" width="75" height="75"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python logo" width="75" height="75"> <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter logo" width="75" height="75"> <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS logo" width="75" height="75"> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git logo" width="75" height="75"> <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux logo" width="75" height="75">
+
+---
+
+🗞️ Certifications
+
+
 <!--
 **JorgeMag96/JorgeMag96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
