@@ -14,6 +14,7 @@ A Software Engineer specializing in Java technologies and Amazon Web Services. P
 
 🗞️ Certifications
 
+<a href="https://www.credly.com/badges/0d8c132b-fd30-409b-99b9-55a4d626032a/public_url" target="blank"> <img src="https://github.com/JorgeMag96/JorgeMag96/blob/main/images/aws-certified-solutions-architect-associate%20480px.png" alt="SAA" width="150" height="150"> </a>
 
 <!--
 **JorgeMag96/JorgeMag96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
