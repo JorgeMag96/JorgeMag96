@@ -6,6 +6,8 @@
 
 A Software Engineer specializing in Java technologies and Amazon Web Services. Professional experience with the techonologies listed in the **toolbox** below.
 
+I'm always learning new technologies and figuring out ways to integrate them to the projects I'm currently working on.
+
 ---
 
 🧰 Toolbox
