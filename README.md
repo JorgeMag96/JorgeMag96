@@ -18,8 +18,7 @@ I'm always learning new technologies and figuring out ways to integrate them to 
 
 🗞️  Certifications
 
-<a href="https://www.credly.com/badges/0d8c132b-fd30-409b-99b9-55a4d626032a/public_url" target="_blank"> <img src="https://github.com/JorgeMag96/JorgeMag96/blob/main/images/aws-certified-solutions-architect-associate%20480px.png" alt="SAA" width="150" height="150"> </a>
-
+<a href="https://www.credly.com/badges/0d8c132b-fd30-409b-99b9-55a4d626032a/public_url" target="_blank"> <img src="https://github.com/JorgeMag96/JorgeMag96/blob/main/images/aws-certified-solutions-architect-associate%20480px.png" alt="SAA" width="150" height="150"> </a> Currently pursuing AWS Certified Developer Associate certification.
 <!--
 **JorgeMag96/JorgeMag96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
