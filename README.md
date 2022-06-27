@@ -1,5 +1,4 @@
 [![GitHub followers](https://img.shields.io/github/followers/JorgeMag96?style=social)](https://github.com/JorgeMag96)
-[![Twitch Status](https://img.shields.io/twitch/status/pheizxtv?style=social)](https://www.twitch.tv/pheizxtv)
 
 A Software Engineer specializing in Java technologies and Amazon Web Services. Professional experience with the techonologies listed in the **toolbox** below.
 
