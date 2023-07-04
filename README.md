@@ -17,8 +17,9 @@ I'm always learning new technologies and figuring out ways to integrate them to 
 
 🗞️  Certifications
 
-<a href="https://www.credly.com/badges/0d8c132b-fd30-409b-99b9-55a4d626032a/public_url" target="_blank"> <img src="https://github.com/JorgeMag96/JorgeMag96/blob/main/images/aws-certified-solutions-architect-associate%20480px.png" alt="SAA" width="150" height="150">
-<a href="https://www.credly.com/badges/31aaf4c2-43fb-48e7-a222-987e35c3b8dc/public_url" target="_blank"> <img src="https://github.com/JorgeMag96/JorgeMag96/blob/main/images/aws-certified-developer-associate.png" alt="SAA" width="150" height="150">
+<a href="https://www.credly.com/badges/0d8c132b-fd30-409b-99b9-55a4d626032a/public_url" target="_blank"> <img src="https://github.com/JorgeMag96/JorgeMag96/blob/main/images/aws-certified-solutions-architect-associate%20480px.png" alt="AWS_SAA" width="150" height="150">
+<a href="https://www.credly.com/badges/31aaf4c2-43fb-48e7-a222-987e35c3b8dc/public_url" target="_blank"> <img src="https://github.com/JorgeMag96/JorgeMag96/blob/main/images/aws-certified-developer-associate.png" alt="AWS_DA" width="150" height="150">
+<a href="https://www.credly.com/badges/a1fb4684-d5e1-42df-a947-3153fcc5d007/public_url" target="_blank"> <img src="https://github.com/JorgeMag96/JorgeMag96/blob/main/images/ckad-certified-kubernetes-application-developer.png" alt="CKAD" width="150" height="150">
 <!--
 **JorgeMag96/JorgeMag96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
